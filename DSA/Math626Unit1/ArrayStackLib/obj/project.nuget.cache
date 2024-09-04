@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOb7f75R7Zkpd7GdWSnpqN/JMhYxjJFclMDilNAWVMdlP/+/nEgb+vvo2Vs/f+powSDwuuDIP0uDWNJIBBsOdw==",
+  "success": true,
+  "projectFilePath": "/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/ArrayStackLib/ArrayStackLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/bellum0_0/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/bellum0_0/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

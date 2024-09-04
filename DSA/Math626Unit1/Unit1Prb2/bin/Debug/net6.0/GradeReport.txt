@@ -1,0 +1,16 @@
+Grade Report
+*******************************************************
+
+Number of students: 3
+Number of class days: 12
+
+If a student had 10 or fewer absences, a bonus of 10%
+was applied to the final percentage.
+
+*******************************************************
+
+Last Name,  First Name  Percent  Absences  Grade  Bonus
+*******************************************************
+      Hart,        Jim   74.83%         4     C    True
+     Smith,        Amy   100.83%         2     A    True
+  Williams,     Rachel   104.33%         8     A    True

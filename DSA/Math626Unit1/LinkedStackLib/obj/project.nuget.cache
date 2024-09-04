@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU0Ryt+NTbT5KEY4A2qmw13QttEBfq/jsJhTuA4J/Hqxp2PGa0HV8OSMQQhWbogmEFh4mo0H4YIPcE55jpNeiA==",
+  "success": true,
+  "projectFilePath": "/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/LinkedStackLib/LinkedStackLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/bellum0_0/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/bellum0_0/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/bin/Debug/net6.0/Unit1Prb2
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/bin/Debug/net6.0/Unit1Prb2.deps.json
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/bin/Debug/net6.0/Unit1Prb2.runtimeconfig.json
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/bin/Debug/net6.0/Unit1Prb2.dll
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/bin/Debug/net6.0/Unit1Prb2.pdb
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.csproj.AssemblyReference.cache
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.AssemblyInfoInputs.cache
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.AssemblyInfo.cs
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.csproj.CoreCompileInputs.cache
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.dll
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/refint/Unit1Prb2.dll
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.pdb
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.genruntimeconfig.cache
+/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/ref/Unit1Prb2.dll

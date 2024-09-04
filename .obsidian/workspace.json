@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "49b2c28e50520b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ef09a20bfb1185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf0d17d0f3be606d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "675124cb1a73227d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "WAD/Sem título.canvas",
+                "viewState": {
+                  "x": 112.59873092203333,
+                  "y": 3.0308390988630265,
+                  "zoom": -0.5997685145338377
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a735b514aa7b146",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd195c60ba828db5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "207ba25dedd02ab9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9cebcc8f7e33afe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2ff3ab8fac233c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9e0143d28e35e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3987befdb8287485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51d29ddbd44acff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WAD/Sem título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a2ed373b5628116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WAD/Sem título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bd39a17cad9c8ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ff1090f81e572c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WAD/Sem título.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "675124cb1a73227d",
+  "lastOpenFiles": [
+    "MAD/CODE/demo_1/build/cache.dill.track.dill",
+    "MAD/CODE/demo_1/build/flutter_assets/shaders/ink_sparkle.frag",
+    "MAD/CODE/demo_1/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+    "MAD/CODE/demo_1/build/flutter_assets/packages/cupertino_icons/assets",
+    "MAD/CODE/demo_1/build/flutter_assets/packages/cupertino_icons",
+    "MAD/CODE/demo_1/build/flutter_assets/fonts/MaterialIcons-Regular.otf",
+    "MAD/CODE/demo_1/build/flutter_assets/shaders",
+    "MAD/CODE/demo_1/build/flutter_assets/packages",
+    "MAD/CODE/demo_1/build/flutter_assets/fonts",
+    "MAD/CODE/demo_1/build/flutter_assets/NOTICES",
+    "MAD/CODE/demo_1/build/flutter_assets/FontManifest.json",
+    "WAD/Dart.md",
+    "WAD/Wireframe using Figma.md",
+    "WAD/Sem título.canvas",
+    "MAD/CODE/demo_1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "MAD/CODE/demo_1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "MAD/CODE/demo_1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "MAD/CODE/demo_1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "MAD/CODE/demo_1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "MAD/CODE/demo_1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png",
+    "MAD/CODE/demo_1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
+    "MAD/CODE/demo_1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
+    "MAD/CODE/demo_1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+    "MAD/CODE/demo_1/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png",
+    "MAD/CODE/demo_1/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "MAD/CODE/demo_1/README.md",
+    "Mobile app dev/Sem título.canvas",
+    "MAD/Sem título.md",
+    "MAD/Sem título.canvas",
+    "ITFEF/Semantics Elements.md",
+    "ITFEF/Sem título.canvas",
+    "Mobile app dev/Sem título.md",
+    "Intro to frontend frameworks/Sem título.canvas",
+    "Intro to frontend frameworks/Semantics Elements.md",
+    "Web app dev/Wireframe using Figma.md",
+    "Web app dev/Sem título.canvas",
+    "2024-08-22.md",
+    "Sem título.canvas"
+  ]
+}

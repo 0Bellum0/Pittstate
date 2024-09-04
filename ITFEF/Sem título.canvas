@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c0dd48e689c290c7","x":-500,"y":-360,"width":400,"height":400,"type":"file","file":"Intro to frontend frameworks/Semantics Elements.md"},
+		{"id":"26fb045576883d20","x":80,"y":-360,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

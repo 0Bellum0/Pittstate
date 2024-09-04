@@ -1,0 +1,20 @@
+html{
+    background-color:#F2C0D1;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+a{
+    color: black;
+}
+
+img{
+    border: 1px;
+    border-radius: 5px;
+    box-shadow: 1px black;
+    width: 450px;
+    height: 350px;
+}

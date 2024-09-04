@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit1Smp4/1.0.0": {
+        "dependencies": {
+          "LinkedStackLib": "1.0.0"
+        },
+        "runtime": {
+          "Unit1Smp4.dll": {}
+        }
+      },
+      "LinkedStackLib/1.0.0": {
+        "runtime": {
+          "LinkedStackLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit1Smp4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedStackLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

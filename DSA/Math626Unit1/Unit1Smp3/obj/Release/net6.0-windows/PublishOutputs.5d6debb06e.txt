@@ -1,0 +1,7 @@
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\Unit1Smp3.exe
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\Unit1Smp3.dll
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\Unit1Smp3.deps.json
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\Unit1Smp3.runtimeconfig.json
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\Unit1Smp3.pdb
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\ArrayStackLib.dll
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\Unit1Smp3\bin\Release\net6.0-windows\publish\ArrayStackLib.pdb

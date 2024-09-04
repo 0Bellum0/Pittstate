@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2C41WQS2/HgDv7TJm2hmAKzqU3D9peXChR3ncDDDlu8H799fPTpxY4PKOrq9J/GpmHPkUhE9cqspRKws02dEw==",
+  "success": true,
+  "projectFilePath": "/Users/bellum0_0/Desktop/Pittstate/DSA/Math626Unit1/Unit1Smp1/Unit1Smp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/bellum0_0/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/bellum0_0/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/bellum0_0/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

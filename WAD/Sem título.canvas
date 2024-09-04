@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"2b9f681504ce92ff","type":"file","file":"WAD/Dart.md","x":-480,"y":-360,"width":400,"height":400},
+		{"id":"e7d11066c3315a00","type":"text","text":"Material App","x":220,"y":-410,"width":250,"height":50},
+		{"id":"74377aa8b9497385","type":"text","text":"Scaffold","x":220,"y":-220,"width":250,"height":60},
+		{"id":"49920c635f42788f","type":"text","text":"Text","x":-60,"y":140,"width":250,"height":60},
+		{"id":"d09f709db579b910","type":"text","text":"Text","x":220,"y":140,"width":250,"height":60},
+		{"id":"0be78428356dcd81","type":"text","text":"Text","x":500,"y":140,"width":250,"height":60},
+		{"id":"eed383364defd98f","type":"text","text":"Row","x":220,"y":-40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"47b07555521fccaa","fromNode":"e7d11066c3315a00","fromSide":"bottom","toNode":"74377aa8b9497385","toSide":"top"},
+		{"id":"1de3dbb6388372db","fromNode":"74377aa8b9497385","fromSide":"bottom","toNode":"eed383364defd98f","toSide":"top"},
+		{"id":"b8d64ada47caaa78","fromNode":"eed383364defd98f","fromSide":"bottom","toNode":"49920c635f42788f","toSide":"top"},
+		{"id":"bcd41b65c024a105","fromNode":"eed383364defd98f","fromSide":"bottom","toNode":"d09f709db579b910","toSide":"top"},
+		{"id":"508e992b68b9fc5d","fromNode":"eed383364defd98f","fromSide":"bottom","toNode":"0be78428356dcd81","toSide":"top"}
+	]
+}

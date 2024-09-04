@@ -1,0 +1,15 @@
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/bin/Debug/net6.0/Unit1Prb1
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/bin/Debug/net6.0/Unit1Prb1.deps.json
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/bin/Debug/net6.0/Unit1Prb1.runtimeconfig.json
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/bin/Debug/net6.0/Unit1Prb1.dll
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/bin/Debug/net6.0/Unit1Prb1.pdb
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.csproj.AssemblyReference.cache
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.AssemblyInfoInputs.cache
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.AssemblyInfo.cs
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.csproj.CoreCompileInputs.cache
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.dll
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/refint/Unit1Prb1.dll
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.pdb
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.genruntimeconfig.cache
+/Users/bellum0_0/Desktop/UCS/DSA/Unit1Prb1/Unit1Prb1/obj/Debug/net6.0/ref/Unit1Prb1.dll

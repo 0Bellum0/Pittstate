@@ -1,0 +1,12 @@
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\bin\Release\net6.0\ArrayStackLib.deps.json
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\bin\Release\net6.0\ArrayStackLib.dll
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\bin\Release\net6.0\ArrayStackLib.pdb
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.csproj.AssemblyReference.cache
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.AssemblyInfoInputs.cache
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.AssemblyInfo.cs
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.csproj.CoreCompileInputs.cache
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.dll
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\refint\ArrayStackLib.dll
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ArrayStackLib.pdb
+C:\Users\sthuong\Desktop\NewFlash2\Teaching\Math626\Math626\ArrayStackLib\obj\Release\net6.0\ref\ArrayStackLib.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8BE06A93-FE78-4CC9-9220-824021E5152D}|Default">
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Unit1Prb2/Unit1Smp1.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Unit1Prb3/Unit1Prb3Form.cs">
+    <Files>
+      <File FileName="Unit1Prb3/Unit1Prb3Form.cs" Line="165" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Math626Unit1" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Unit1Smp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Unit1Prb2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

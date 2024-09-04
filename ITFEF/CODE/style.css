@@ -1,0 +1,21 @@
+html{
+    background-color:#F2C0D1;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+a{
+    color: black;
+}
+
+nav.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    background-color: #cae8ca;
+    border: 2px solid #4CAF50;
+}
