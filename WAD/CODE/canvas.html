@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <title>Page Title</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+    </head>
+    <body>
+        <canvas id="myCanvas" width="200" height="100" style="border: 1px solid black;"></canvas>
+<br>
+        <button onclick="generate()">Click to generate</button>
+        <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            function generate(){
+                var gradient = ctx.createLinearGradient(1, 4, c.width, 2);
+                gradient.addColorStop("0", "green");
+                gradient.addColorStop("0.4", "yellow");
+                gradient.addColorStop("1", "aqua");
+                ctx.font = "40px sans-serif";
+                ctx.fillStyle = "red";
+                ctx.strokeStyle = gradient;
+                ctx.strokeText("Canvas", 28, 60);
+            }
+        </script>
+    </body>
+</html>

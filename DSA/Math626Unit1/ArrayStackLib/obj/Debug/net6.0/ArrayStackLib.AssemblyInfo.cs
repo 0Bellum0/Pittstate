@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayStackLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30dbfa9a17f148b16a6509704e6b2ead1b3f90bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayStackLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayStackLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -163,6 +163,8 @@
   },
   "active": "675124cb1a73227d",
   "lastOpenFiles": [
+    "WAD/CODE/dragNDrop.html",
+    "WAD/CODE/canvas.html",
     "DSA/Math626Unit1/Unit1Prb2/obj/Debug/net6.0/Unit1Prb2.csproj.AssemblyReference.cache",
     "DSA/Math626Unit1/Unit1Prb1/obj/Debug/net6.0/Unit1Prb1.csproj.AssemblyReference.cache",
     "DSA/Math626Unit1/Unit1Smp1/obj/Debug/net6.0/Unit1Smp1.csproj.AssemblyReference.cache",
@@ -172,8 +174,6 @@
     "DSA/Math626Unit1/ArrayStackLib/obj/Debug/net6.0/ArrayStackLib.csproj.AssemblyReference.cache",
     "MAD/CODE/demo_1/build/cache.dill.track.dill",
     "MAD/CODE/demo_1/build/flutter_assets/shaders/ink_sparkle.frag",
-    "MAD/CODE/demo_1/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
-    "MAD/CODE/demo_1/build/flutter_assets/packages/cupertino_icons/assets",
     "WAD/Dart.md",
     "WAD/Wireframe using Figma.md",
     "WAD/Sem título.canvas",
