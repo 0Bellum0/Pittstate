@@ -17,7 +17,7 @@ namespace Unit1Prb5
 
     public partial class Unit1Prb5Form : Form
     {
-        // public LinkedQueue jobQueue = new LinkedQueue("Job Queue");
+        public LinkedQueue jobQueue = new LinkedQueue("Job Queue");
         public Unit1Prb5Form()
         {
             InitializeComponent();
@@ -25,7 +25,7 @@ namespace Unit1Prb5
 
         private void newJobButton_Click(object sender, EventArgs e)
         {
-            /*
+            
             Job newJob = new Job();
             addForm addDialog = new addForm();
             ;
@@ -39,12 +39,12 @@ namespace Unit1Prb5
             }
 
             PrintQueue();
-            */
+            
         }
 
         private void releaseJobButton_Click(object sender, EventArgs e)
         {
-            /*
+            
             if (!jobQueue.Empty)
             {
                 Job releasedJob;
@@ -56,30 +56,28 @@ namespace Unit1Prb5
             {
                 MessageBox.Show("Job queue is empty", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            */
+            
 
         }
         private void PrintQueue()
         {
-            /*
             QueueNode currentNode;
             Job currentJob;
 
             numTextBox.Text = jobQueue.Size.ToString();
-
             queueTextBox.Clear();
 
             currentNode = jobQueue.Peek();
 
             while (currentNode != null)
             {
-                currentJob = (Job) currentNode.Data;
+                currentJob = (Job)currentNode.Data;
                 queueTextBox.Text += currentJob.ToString();
                 queueTextBox.Text += System.Environment.NewLine;
                 currentNode = currentNode.Next;
             }
-            */
         }
+
 
     }
     public class Job

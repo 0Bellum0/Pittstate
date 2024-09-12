@@ -16,7 +16,7 @@ namespace Unit1Prb4
 {
     public partial class Unit1Prb4Form : Form
     {
-       //  public ArrayQueue orderQueue = new ArrayQueue("Work order queue");
+        public ArrayQueue orderQueue = new ArrayQueue("Work order queue");
         public Unit1Prb4Form()
         {
             InitializeComponent();
@@ -24,10 +24,8 @@ namespace Unit1Prb4
 
         private void newJobButton_Click(object sender, EventArgs e)
         {
-            /*
             Order newOrder = new Order();
             addForm addDialog = new addForm();
-            ;
 
             if (addDialog.ShowDialog() == DialogResult.OK)
             {
@@ -38,29 +36,33 @@ namespace Unit1Prb4
             }
 
             PrintQueue();
-            */
         }
+
         private void releaseOrderButton_Click(object sender, EventArgs e)
         {
-            /*
             if (!orderQueue.Empty)
             {
-                Order releasedOrder;
-                releasedOrder = (Order)orderQueue.Dequeue();
+                Order releasedOrder = (Order)orderQueue.Dequeue();
                 MessageBox.Show("Order number " + releasedOrder.OrderNumber.ToString() + " for " + releasedOrder.Name + " completed.");
                 PrintQueue();
             }
             else
             {
-                MessageBox.Show("Work order queue is empty", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("The queue is empty.");
             }
-            */
-
         }
+
         private void PrintQueue()
         {
-           // Missing code
+            queueTextBox.Clear();
+
+            for (int i = 0; i < orderQueue.Size; i++)
+            {
+                Order currentOrder = (Order)orderQueue.List[(orderQueue.Front + i) % orderQueue.List.Length];
+                queueTextBox.AppendText("Order " + currentOrder.OrderNumber + " - " + currentOrder.Name + Environment.NewLine);
+            }
         }
+
     }
     public class Order
     {

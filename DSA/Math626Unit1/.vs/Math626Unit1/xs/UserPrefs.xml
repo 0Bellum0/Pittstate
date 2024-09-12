@@ -1,25 +1,32 @@
 ﻿<Properties StartupConfiguration="{8BE06A93-FE78-4CC9-9220-824021E5152D}|Default">
-  <MultiItemStartupConfigurations />
-  <DisabledProjects>
-    <String>Unit1Prb2/Unit1Smp1.csproj</String>
-  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Unit1Prb3/Unit1Prb3Form.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Unit1Prb4/Unit1Prb4Form.cs">
     <Files>
-      <File FileName="Unit1Prb3/Unit1Prb3Form.cs" Line="165" Column="1" />
+      <File FileName="Unit1Prb4/Unit1Prb4Form.cs" Line="65" Column="1" />
+      <File FileName="ArrayQueueLib/ArrayQueueLib.cs" Line="108" Column="1" />
+      <File FileName="Unit1Smp2/Unit1Smp2Form.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Math626Unit1" expanded="True" />
+          <Node name="Math626Unit1">
+            <Node name="Unit1Prb4">
+              <Node name="Unit1Prb4Form.cs" selected="True" />
+            </Node>
+            <Node name="Unit1Smp2" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Unit1Smp1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Unit1Prb2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Unit1Smp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>Unit1Prb2/Unit1Smp1.csproj</String>
+  </DisabledProjects>
 </Properties>

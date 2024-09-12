@@ -13,8 +13,19 @@
         <script>
             var c = document.getElementById("myCanvas");
             var ctx = c.getContext("2d");
+            /*var count = 0;
+            function getRandomX(){
+                return Math.random() * (200 - 100) + 50;
+            }
+            function getRandomY(){
+                return Math.random() * (100 - 25) + 25;
+            }*/
             function generate(){
                 var gradient = ctx.createLinearGradient(1, 4, c.width, 2);
+                //var x = getRandomX();
+                //var y = getRandomY();
+                //ctx.shadowBlur = 5;
+                //ctx.shadowColor = "green";
                 gradient.addColorStop("0", "green");
                 gradient.addColorStop("0.4", "yellow");
                 gradient.addColorStop("1", "aqua");
@@ -22,6 +33,11 @@
                 ctx.fillStyle = "red";
                 ctx.strokeStyle = gradient;
                 ctx.strokeText("Canvas", 28, 60);
+                /*if(count > 1){
+                    gradient.translate(x, y);
+                    ctx.strokeText("Canvas", 28, 60);
+                }
+                count++;*/
             }
         </script>
     </body>

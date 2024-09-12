@@ -1,9 +1,40 @@
 import 'package:flutter/material.dart';
+import 'gradient_container.dart';
+
 void main(){
-  runApp(const MaterialApp(home: Scaffold(body: Text("Hello world"))));
+  runApp(
+    const MaterialApp(
+      home: Scaffold(
+        //backgroundColor: const Color.fromARGB(255, 79, 25, 172),
+        body: GradientContainer(
+          /*decoration: const BoxDecoration(
+            gradient: LinearGradient(
+              colors:[
+                Color.fromARGB(255, 60, 16, 162),
+                Color.fromARGB(255, 40, 4, 91),
+              ],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+            ),
+          ),
+          child: const Center(
+            child: Text("My first flutter app", style: TextStyle(
+              color: Colors.white,
+              fontSize: 28,),
+            )
+          ),*/
+        ),
+      ),
+    ),
+  );
 }
-/*
-void main() {
+
+/*void main(){
+  runApp(const MaterialApp(home: Scaffold(backgroundColor: Colors.deepPurple, body: Center(
+    child: Text("Hello world")))));
+}*/
+
+/*void main() {
   runApp(const MyApp());
 }
 
@@ -125,5 +156,4 @@ class _MyHomePageState extends State<MyHomePage> {
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
-}
-*/
+}*/
