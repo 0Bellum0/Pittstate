@@ -1,0 +1,11 @@
+6
+3
+10
+5
+16
+8
+4
+2
+1
+********************************
+Collatz sequence starting with 6 reached 1 in 8 iterations

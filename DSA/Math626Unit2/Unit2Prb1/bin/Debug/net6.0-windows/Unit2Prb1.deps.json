@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit2Prb1/1.0.0": {
+        "dependencies": {
+          "LinkedQueueLib": "1.0.0"
+        },
+        "runtime": {
+          "Unit2Prb1.dll": {}
+        }
+      },
+      "LinkedQueueLib/1.0.0": {
+        "runtime": {
+          "LinkedQueueLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit2Prb1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinkedQueueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
