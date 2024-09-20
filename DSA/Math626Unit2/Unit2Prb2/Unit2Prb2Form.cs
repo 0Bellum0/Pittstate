@@ -69,7 +69,7 @@ namespace Unit2Prb2
 
             numOfRecursiveCalls++;
 
-            if (position == numItems - 1)
+            if (position == numItems)
             {
                 weight = CalcWeight();
                 profit = CalcProfit();
