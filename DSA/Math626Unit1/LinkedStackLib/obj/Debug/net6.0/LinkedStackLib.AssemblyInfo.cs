@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedStackLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b45374788d611c324eb204c7ed600510cb31233")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df41fe815e58499ee0ee61153df3a7389faa447e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedStackLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedStackLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
